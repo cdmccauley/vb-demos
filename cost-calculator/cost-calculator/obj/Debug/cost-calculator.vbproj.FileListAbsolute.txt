@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\bin\Debug\cost-calculator.exe.config
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\bin\Debug\cost-calculator.exe
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\bin\Debug\cost-calculator.pdb
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\bin\Debug\cost-calculator.xml
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\obj\Debug\cost-calculator.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\obj\Debug\cost_calculator.frmCostCalculator.resources
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\obj\Debug\cost_calculator.Resources.resources
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\obj\Debug\cost-calculator.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\obj\Debug\cost-calculator.exe
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\obj\Debug\cost-calculator.xml
+C:\Users\user-1\Downloads\sync\github\cost-calculator\cost-calculator\cost-calculator\obj\Debug\cost-calculator.pdb

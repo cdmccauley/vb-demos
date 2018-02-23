@@ -1,0 +1,11 @@
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmMPGCalculator.resources
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Chris\Downloads\sync\github\mpg-calculator\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

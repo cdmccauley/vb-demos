@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\bin\Debug\pangram-test.exe.config
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\bin\Debug\pangram-test.exe
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\bin\Debug\pangram-test.pdb
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\bin\Debug\pangram-test.xml
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\obj\Debug\pangram-test.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\obj\Debug\pangram_test.frmPangramTest.resources
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\obj\Debug\pangram_test.Resources.resources
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\obj\Debug\pangram-test.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\obj\Debug\pangram-test.exe
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\obj\Debug\pangram-test.xml
+C:\Users\user-1\Downloads\sync\github\pangram-test\pangram-test\obj\Debug\pangram-test.pdb

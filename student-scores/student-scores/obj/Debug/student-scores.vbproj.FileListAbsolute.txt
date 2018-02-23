@@ -1,0 +1,12 @@
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\bin\Debug\student-scores.exe.config
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\bin\Debug\student-scores.exe
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\bin\Debug\student-scores.pdb
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\bin\Debug\student-scores.xml
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\obj\Debug\student-scores.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\obj\Debug\student_scores.frmStudentScores.resources
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\obj\Debug\student_scores.Resources.resources
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\obj\Debug\student-scores.vbproj.GenerateResource.Cache
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\obj\Debug\student-scores.vbproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\obj\Debug\student-scores.exe
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\obj\Debug\student-scores.xml
+C:\Users\Chris\Downloads\sync\github\student-scores\student-scores\student-scores\obj\Debug\student-scores.pdb

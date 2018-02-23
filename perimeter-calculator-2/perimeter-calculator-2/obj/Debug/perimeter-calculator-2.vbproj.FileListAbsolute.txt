@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\obj\Debug\perimeter-calculator-2.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\obj\Debug\perimeter_calculator_2.frmPeriCalc.resources
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\obj\Debug\perimeter_calculator_2.Resources.resources
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\obj\Debug\perimeter-calculator-2.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\bin\Debug\perimeter-calculator-2.exe.config
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\bin\Debug\perimeter-calculator-2.exe
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\bin\Debug\perimeter-calculator-2.pdb
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\bin\Debug\perimeter-calculator-2.xml
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\obj\Debug\perimeter-calculator-2.exe
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\obj\Debug\perimeter-calculator-2.xml
+C:\Users\user-1\Downloads\sync\github\perimeter-calculator-2\perimeter-calculator-2\perimeter-calculator-2\obj\Debug\perimeter-calculator-2.pdb

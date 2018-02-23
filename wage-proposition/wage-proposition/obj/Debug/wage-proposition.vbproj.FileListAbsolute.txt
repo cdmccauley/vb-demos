@@ -1,0 +1,12 @@
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\bin\Debug\wage-proposition.exe.config
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\bin\Debug\wage-proposition.exe
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\bin\Debug\wage-proposition.pdb
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\bin\Debug\wage-proposition.xml
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\obj\Debug\wage-proposition.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\obj\Debug\wage_proposition.frmWageProp.resources
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\obj\Debug\wage_proposition.Resources.resources
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\obj\Debug\wage-proposition.vbproj.GenerateResource.Cache
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\obj\Debug\wage-proposition.vbproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\obj\Debug\wage-proposition.exe
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\obj\Debug\wage-proposition.xml
+C:\Users\Chris\Downloads\sync\github\wage-proposition\wage-proposition\wage-proposition\obj\Debug\wage-proposition.pdb

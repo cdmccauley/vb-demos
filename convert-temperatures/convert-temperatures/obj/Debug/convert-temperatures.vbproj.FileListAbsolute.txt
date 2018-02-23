@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\bin\Debug\convert-temperatures.exe.config
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\bin\Debug\convert-temperatures.exe
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\bin\Debug\convert-temperatures.pdb
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\bin\Debug\convert-temperatures.xml
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\obj\Debug\convert-temperatures.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\obj\Debug\convert_temperatures.frmConvertTemp.resources
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\obj\Debug\convert_temperatures.Resources.resources
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\obj\Debug\convert-temperatures.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\obj\Debug\convert-temperatures.exe
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\obj\Debug\convert-temperatures.xml
+C:\Users\user-1\Downloads\sync\github\convert-temperatures\convert-temperatures\convert-temperatures\obj\Debug\convert-temperatures.pdb

@@ -1,0 +1,12 @@
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\bin\Debug\name-reverser.exe.config
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\bin\Debug\name-reverser.exe
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\bin\Debug\name-reverser.pdb
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\bin\Debug\name-reverser.xml
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\obj\Debug\name-reverser.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\obj\Debug\name_reverser.frmNameReverser.resources
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\obj\Debug\name_reverser.Resources.resources
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\obj\Debug\name-reverser.vbproj.GenerateResource.Cache
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\obj\Debug\name-reverser.vbproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\obj\Debug\name-reverser.exe
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\obj\Debug\name-reverser.xml
+C:\Users\Chris\Downloads\sync\github\name-reverser\name-reverser\name-reverser\obj\Debug\name-reverser.pdb

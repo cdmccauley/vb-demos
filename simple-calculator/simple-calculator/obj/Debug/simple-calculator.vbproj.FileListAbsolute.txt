@@ -1,0 +1,11 @@
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\bin\Debug\simple-calculator.exe.config
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\bin\Debug\simple-calculator.exe
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\bin\Debug\simple-calculator.pdb
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\bin\Debug\simple-calculator.xml
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\obj\Debug\simple-calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\obj\Debug\simple_calculator.frmSimpleCalculator.resources
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\obj\Debug\simple_calculator.Resources.resources
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\obj\Debug\simple-calculator.vbproj.GenerateResource.Cache
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\obj\Debug\simple-calculator.exe
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\obj\Debug\simple-calculator.xml
+C:\Users\Chris\Downloads\sync\github\simple-calculator\simple-calculator\simple-calculator\obj\Debug\simple-calculator.pdb

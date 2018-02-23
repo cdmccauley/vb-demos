@@ -1,0 +1,11 @@
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\bin\Debug\echo-app.exe.config
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\bin\Debug\echo-app.exe
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\bin\Debug\echo-app.pdb
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\bin\Debug\echo-app.xml
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\obj\Debug\echo-app.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\obj\Debug\echo_app.frmEchoChamber.resources
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\obj\Debug\echo_app.Resources.resources
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\obj\Debug\echo-app.vbproj.GenerateResource.Cache
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\obj\Debug\echo-app.exe
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\obj\Debug\echo-app.xml
+C:\Users\Chris\Downloads\sync\github\echo-app\echo-app\echo-app\obj\Debug\echo-app.pdb

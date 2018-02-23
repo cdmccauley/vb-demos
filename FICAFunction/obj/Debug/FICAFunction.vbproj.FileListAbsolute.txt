@@ -1,0 +1,27 @@
+H:\VB\Cambridge\Chap07\Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.exe
+H:\VB\Cambridge\Chap07\Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.xml
+H:\VB\Cambridge\Chap07\Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\Chap07\Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\Chap07\Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\Chap07\Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\bin\Debug\FICAFunction.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\bin\Debug\FICAFunction.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\bin\Debug\FICAFunction.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.frmFICA.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\obj\Debug\FICAFunction.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter07Programs\FICAFunction\FICAFunction\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\bin\Debug\FICAFunction.exe
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\bin\Debug\FICAFunction.pdb
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\bin\Debug\FICAFunction.xml
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\obj\Debug\FICAFunction.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\obj\Debug\FICAFunction.frmFICA.resources
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\obj\Debug\FICAFunction.Resources.resources
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\obj\Debug\FICAFunction.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\obj\Debug\FICAFunction.exe
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\obj\Debug\FICAFunction.xml
+C:\Users\user-1\Downloads\sync\github\FICAFunction\FICAFunction\obj\Debug\FICAFunction.pdb

@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\bin\Debug\palindrome-tester.exe.config
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\bin\Debug\palindrome-tester.exe
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\bin\Debug\palindrome-tester.pdb
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\bin\Debug\palindrome-tester.xml
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\obj\Debug\palindrome-tester.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\obj\Debug\palindrome_tester.frmPalindromeTester.resources
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\obj\Debug\palindrome_tester.Resources.resources
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\obj\Debug\palindrome-tester.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\obj\Debug\palindrome-tester.exe
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\obj\Debug\palindrome-tester.xml
+C:\Users\user-1\Downloads\sync\github\palindrome-tester\palindrome-tester\palindrome-tester\obj\Debug\palindrome-tester.pdb

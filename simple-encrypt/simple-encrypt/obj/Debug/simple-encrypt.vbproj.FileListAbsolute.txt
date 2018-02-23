@@ -1,0 +1,12 @@
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\bin\Debug\simple-encrypt.exe.config
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\bin\Debug\simple-encrypt.exe
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\bin\Debug\simple-encrypt.pdb
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\bin\Debug\simple-encrypt.xml
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\obj\Debug\simple-encrypt.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\obj\Debug\simple_encrypt.frmSimpleEncrypt.resources
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\obj\Debug\simple_encrypt.Resources.resources
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\obj\Debug\simple-encrypt.vbproj.GenerateResource.Cache
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\obj\Debug\simple-encrypt.vbproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\obj\Debug\simple-encrypt.exe
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\obj\Debug\simple-encrypt.xml
+C:\Users\Chris\Downloads\sync\github\simple-encrypt\simple-encrypt\simple-encrypt\obj\Debug\simple-encrypt.pdb

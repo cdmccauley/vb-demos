@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\bin\Debug\bugspray.exe.config
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\bin\Debug\bugspray.exe
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\bin\Debug\bugspray.pdb
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\bin\Debug\bugspray.xml
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\obj\Debug\bugspray.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\obj\Debug\bugspray.frmBugSpray.resources
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\obj\Debug\bugspray.Resources.resources
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\obj\Debug\bugspray.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\obj\Debug\bugspray.exe
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\obj\Debug\bugspray.xml
+C:\Users\user-1\Downloads\sync\github\bugspray\bugspray\bugspray\obj\Debug\bugspray.pdb

@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\obj\Debug\dice-d6.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\obj\Debug\dice_d6.frmD6.resources
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\obj\Debug\dice_d6.Resources.resources
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\obj\Debug\dice-d6.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\bin\Debug\dice-d6.exe.config
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\bin\Debug\dice-d6.exe
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\bin\Debug\dice-d6.pdb
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\bin\Debug\dice-d6.xml
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\obj\Debug\dice-d6.exe
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\obj\Debug\dice-d6.xml
+C:\Users\user-1\Downloads\sync\github\dice-d6\dice-d6\dice-d6\obj\Debug\dice-d6.pdb

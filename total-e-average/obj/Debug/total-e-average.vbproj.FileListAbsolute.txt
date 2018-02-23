@@ -1,0 +1,12 @@
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\bin\Debug\total-e-average.exe.config
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\bin\Debug\total-e-average.exe
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\bin\Debug\total-e-average.pdb
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\bin\Debug\total-e-average.xml
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\obj\Debug\total-e-average.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\obj\Debug\total_e_average.frmTotalAverage.resources
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\obj\Debug\total_e_average.Resources.resources
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\obj\Debug\total-e-average.vbproj.GenerateResource.Cache
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\obj\Debug\total-e-average.vbproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\obj\Debug\total-e-average.exe
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\obj\Debug\total-e-average.xml
+C:\Users\Chris\Downloads\sync\github\total-e-average\total-e-average\obj\Debug\total-e-average.pdb

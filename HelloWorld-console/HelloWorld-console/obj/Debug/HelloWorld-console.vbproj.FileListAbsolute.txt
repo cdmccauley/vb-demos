@@ -1,0 +1,10 @@
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\bin\Debug\HelloWorld-console.exe.config
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\bin\Debug\HelloWorld-console.exe
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\bin\Debug\HelloWorld-console.pdb
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\bin\Debug\HelloWorld-console.xml
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\obj\Debug\HelloWorld-console.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\obj\Debug\HelloWorld_console.Resources.resources
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\obj\Debug\HelloWorld-console.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\obj\Debug\HelloWorld-console.exe
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\obj\Debug\HelloWorld-console.xml
+C:\Users\user-1\Downloads\sync\github\HelloWorld-console\HelloWorld-console\HelloWorld-console\obj\Debug\HelloWorld-console.pdb

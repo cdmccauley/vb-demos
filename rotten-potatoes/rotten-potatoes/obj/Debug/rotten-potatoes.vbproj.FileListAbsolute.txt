@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\bin\Debug\rotten-potatoes.exe.config
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\bin\Debug\rotten-potatoes.exe
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\bin\Debug\rotten-potatoes.pdb
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\bin\Debug\rotten-potatoes.xml
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\obj\Debug\rotten-potatoes.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\obj\Debug\rotten_potatoes.frmRottenPotatoes.resources
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\obj\Debug\rotten_potatoes.Resources.resources
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\obj\Debug\rotten-potatoes.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\obj\Debug\rotten-potatoes.exe
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\obj\Debug\rotten-potatoes.xml
+C:\Users\user-1\Downloads\sync\github\rotten-potatoes\rotten-potatoes\rotten-potatoes\obj\Debug\rotten-potatoes.pdb

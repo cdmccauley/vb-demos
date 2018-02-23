@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\bin\Debug\gas-mileage-calc.exe.config
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\bin\Debug\gas-mileage-calc.exe
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\bin\Debug\gas-mileage-calc.pdb
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\bin\Debug\gas-mileage-calc.xml
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\obj\Debug\gas-mileage-calc.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\obj\Debug\gas_mileage_calc.frmGasMileCalc.resources
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\obj\Debug\gas_mileage_calc.Resources.resources
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\obj\Debug\gas-mileage-calc.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\obj\Debug\gas-mileage-calc.exe
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\obj\Debug\gas-mileage-calc.xml
+C:\Users\user-1\Downloads\sync\github\gas-mileage-calc\gas-mileage-calc\gas-mileage-calc\obj\Debug\gas-mileage-calc.pdb

@@ -1,0 +1,11 @@
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\bin\Debug\roll-until-x.exe.config
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\bin\Debug\roll-until-x.exe
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\bin\Debug\roll-until-x.pdb
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\bin\Debug\roll-until-x.xml
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\obj\Debug\roll-until-x.vbprojResolveAssemblyReference.cache
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\obj\Debug\roll_until_x.frmRollUntil.resources
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\obj\Debug\roll_until_x.Resources.resources
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\obj\Debug\roll-until-x.vbproj.GenerateResource.Cache
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\obj\Debug\roll-until-x.exe
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\obj\Debug\roll-until-x.xml
+C:\Users\user-1\Downloads\sync\github\roll-until-x\roll-until-x\roll-until-x\obj\Debug\roll-until-x.pdb

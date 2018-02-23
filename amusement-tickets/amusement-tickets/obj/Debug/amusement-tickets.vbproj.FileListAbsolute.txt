@@ -1,0 +1,11 @@
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\bin\Debug\amusement-tickets.exe.config
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\bin\Debug\amusement-tickets.exe
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\bin\Debug\amusement-tickets.pdb
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\bin\Debug\amusement-tickets.xml
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\obj\Debug\amusement-tickets.vbprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\obj\Debug\amusement_tickets.frmAmusementTickets.resources
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\obj\Debug\amusement_tickets.Resources.resources
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\obj\Debug\amusement-tickets.vbproj.GenerateResource.Cache
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\obj\Debug\amusement-tickets.exe
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\obj\Debug\amusement-tickets.xml
+C:\Users\Chris\Downloads\sync\github\amusement-tickets\amusement-tickets\amusement-tickets\obj\Debug\amusement-tickets.pdb
